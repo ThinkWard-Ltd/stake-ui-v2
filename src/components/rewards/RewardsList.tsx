@@ -85,7 +85,7 @@ function RewardListItem(props: RewardListItemProps) {
               style={{
                 display: 'flex',
                 justifyContent: 'space-between',
-                color: rli.needsClaim ? '#54a15e' : '',
+                color: rli.needsClaim ? '#001B30' : '',
               }}
             >
               <div>{`${toDisplay(
