@@ -12,7 +12,7 @@ export default function Footer() {
         bottom: 0,
         textAlign: 'center',
         height: '30px',
-        backgroundColor: '#fbfbfb',
+        backgroundColor: '#ececf9',
         borderTop: 'solid 1pt #ccc',
         display: 'flex',
         justifyContent: 'space-between',
@@ -35,7 +35,7 @@ export default function Footer() {
           href={'https://discord.com/channels/739225212658122886'}
           label={'Discord'}
         />
-        <FooterButton href={'https://t.me/ProjectSerum'} label={'Telegram'} />
+        <FooterButton href={'https://t.me/fyfyofficial'} label={'Telegram'} />
         <FooterButton
           href={'https://github.com/project-serum'}
           label={'GitHub'}

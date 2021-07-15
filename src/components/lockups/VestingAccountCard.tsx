@@ -365,7 +365,7 @@ export default function VestingAccountCard(props: VestingAccountCardProps) {
                 }}
               >
                 <b>
-                  Note: custom mints (i.e. not SRM/MSRM) display raw token
+                  Note: custom mints (i.e. not FYFY/FPT) display raw token
                   amounts without decimals.
                 </b>
               </div>

@@ -161,7 +161,7 @@ function SerumLogoButton() {
               height: '35px',
             }}
             alt="Logo"
-            src="http://dex.projectserum.com/static/media/logo.49174c73.svg"
+            src="https://i.imgur.com/Fw4hOKr.png"
           />
         </div>
       </Button>

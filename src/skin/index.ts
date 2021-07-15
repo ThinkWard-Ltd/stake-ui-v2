@@ -7,8 +7,8 @@ type Skin = {
 };
 
 const _skin: Skin = {
-  active: '#43a047',
-  ready: '#3f51b5',
+  active: '#001B30',
+  ready: '#0049B0',
   notReady: '#ccc',
   inactive: 'red',
   deactivating: 'rgb(255, 121, 42)',

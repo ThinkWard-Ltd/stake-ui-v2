@@ -279,10 +279,7 @@ function NewVestingDialog(props: NewVestingDialogProps) {
           >
             {false && (
               <FormHelperText style={{ color: 'blue' }}>
-                Note: Amounts for custom mints (i.e., not SRM/MSRM) are in their
-                raw, non-decimal form. Make sure to convert before entering into
-                the fields here. For example, if a token has 6 decimals, then
-                multiply your desired amount by 10^6.
+                Note: Amounts for custom mints (i.e., not FYFY/FTP FormHelperText) are in theirraw, non-decimal form. Make sure to convert before entering into the fields here. For example, if a token has 6 decimals, then multiply your desired amount by 10^6.
               </FormHelperText>
             )}
             <TextField
